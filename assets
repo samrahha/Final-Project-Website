@@ -1,0 +1,12 @@
+<script>start("/Users/samrahansar/Documents/COMD 2451/COMD 2451 Final Project Website/assets/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1742318114,"3/18/25, 1:15:14 PM");</script>
+<script>addRow("bowl-300dpi.jpg","bowl-300dpi.jpg",0,1439487,"1.4 MB",1742317214,"3/18/25, 1:00:14 PM");</script>
+<script>addRow("bowl-72dpi.jpg","bowl-72dpi.jpg",0,101210,"98.8 kB",1742317256,"3/18/25, 1:00:56 PM");</script>
+<script>addRow("bowl-thumbnail.jpg","bowl-thumbnail.jpg",0,155624,"152 kB",1742317293,"3/18/25, 1:01:33 PM");</script>
+<script>addRow("butterfly-300dpi.jpg","butterfly-300dpi.jpg",0,3678037,"3.5 MB",1742317071,"3/18/25, 12:57:51 PM");</script>
+<script>addRow("butterfly-72dpi.jpg","butterfly-72dpi.jpg",0,459738,"449 kB",1742317029,"3/18/25, 12:57:09 PM");</script>
+<script>addRow("butterfly-thumbnail.jpg","butterfly-thumbnail.jpg",0,459738,"449 kB",1742316689,"3/18/25, 12:51:29 PM");</script>
+<script>addRow("cat-300dpi.jpg","cat-300dpi.jpg",0,2938128,"2.8 MB",1742316299,"3/18/25, 12:44:59 PM");</script>
+<script>addRow("cat-72dpi.jpg","cat-72dpi.jpg",0,248394,"243 kB",1742317331,"3/18/25, 1:02:11 PM");</script>
+<script>addRow("cat-thumbnail.jpg","cat-thumbnail.jpg",0,624312,"610 kB",1742317402,"3/18/25, 1:03:22 PM");</script>
